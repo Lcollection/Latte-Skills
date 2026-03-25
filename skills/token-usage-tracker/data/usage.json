@@ -1,0 +1,54 @@
+{
+  "usage": [
+    {
+      "timestamp": "2026-03-25T08:00:00Z",
+      "provider": "kimi",
+      "model": "moonshot-v1-8k",
+      "input_tokens": 1500,
+      "output_tokens": 500,
+      "total_tokens": 2000,
+      "cost_usd": 0.0034,
+      "session_id": "daily-search-001"
+    },
+    {
+      "timestamp": "2026-03-25T08:15:00Z",
+      "provider": "kimi",
+      "model": "moonshot-v1-8k",
+      "input_tokens": 2000,
+      "output_tokens": 800,
+      "total_tokens": 2800,
+      "cost_usd": 0.00476,
+      "session_id": "daily-search-002"
+    },
+    {
+      "timestamp": "2026-03-25T09:00:00Z",
+      "provider": "zai",
+      "model": "glm-5",
+      "input_tokens": 5000,
+      "output_tokens": 1500,
+      "total_tokens": 6500,
+      "cost_usd": 0.0,
+      "session_id": "main-session"
+    },
+    {
+      "timestamp": "2026-03-25T09:30:00Z",
+      "provider": "kimi",
+      "model": "moonshot-v1-8k",
+      "input_tokens": 3000,
+      "output_tokens": 1200,
+      "total_tokens": 4200,
+      "cost_usd": 0.00714,
+      "session_id": "paper-translate"
+    },
+    {
+      "timestamp": "2026-03-25T10:00:00Z",
+      "provider": "zai",
+      "model": "glm-5",
+      "input_tokens": 8000,
+      "output_tokens": 2000,
+      "total_tokens": 10000,
+      "cost_usd": 0.0,
+      "session_id": "main-session"
+    }
+  ]
+}
